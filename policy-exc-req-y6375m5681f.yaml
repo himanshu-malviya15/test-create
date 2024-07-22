@@ -1,0 +1,8 @@
+apiVersion: kyverno.io/v2beta1
+kind: PolicyException
+metadata:
+  name: policy-exc-req-y6375m5681f-0
+spec:
+  exceptions: []
+  match:
+    any: []
